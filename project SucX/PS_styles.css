@@ -28,7 +28,7 @@ body {overflow-x: hidden; font-family: Arial, sans-serif; line-height: 1.6; widt
 .fadeInUp {animation: fadeInUp 0.8s ease forwards;}
 .slideInLeft {animation: slideInLeft 0.8s ease forwards;}
 .home-bg {
-    background: url("project SucX/images/background-image.jpg") no-repeat center center;
+    background: url("images/background-image.jpg") no-repeat center center;
     background-size: cover;
     min-height: 20vh;
     max-height: 100vh;
